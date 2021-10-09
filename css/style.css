@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+    .news-letter{
+        width: 50%;
+    }
+}
+
+
+.btn:is(:focus, :active){
+    outline: none;
+    box-shadow: none;
+}
